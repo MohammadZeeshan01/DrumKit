@@ -13,7 +13,7 @@
 
 HTML, CSS, JavaScript
 
-<!-- [Live Demo](https://color-changerbyzee.netlify.app) -->
+ [Live Demo](https://zeeshandrumkit.netlify.app/)
 
 
 ![alt text](./output.png)
